@@ -69,7 +69,7 @@ defmodule Radiator.MixProject do
       {:ex_machina, "~> 2.3", only: :test},
       {:elixir_uuid, "~> 1.2"},
       {:absinthe_plug, "~> 1.4"},
-      {:absinthe_phoenix, "~> 1.4.0"},
+      {:absinthe_phoenix, "~> 1.5.0"},
       {:timex, "~> 3.5"},
       {:cors_plug, "~> 2.0"},
       # audio file metadata extraction and modifying
