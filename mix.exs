@@ -91,7 +91,7 @@ defmodule Radiator.MixProject do
       # job processor
       {:oban, "~> 0.8"},
       # cron-like job scheduler
-      {:quantum, "~> 2.3"},
+      {:quantum, "~> 3.3"},
       # create and use temporary files/directories
       {:temp, "~> 0.4"}
     ]
