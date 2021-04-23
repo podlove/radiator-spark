@@ -78,7 +78,7 @@ defmodule Radiator.MixProject do
       {:guardian, "~> 2.0"},
       {:argon2_elixir, "~> 2.0"},
       # mail
-      {:bamboo_smtp, "~> 2.0"},
+      {:bamboo_smtp, "~> 4.0"},
       # for documentation
       {:earmark, "~> 1.2", only: :dev},
       {:ex_doc, "~> 0.19", only: :dev},
